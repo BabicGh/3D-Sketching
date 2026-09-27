@@ -1,0 +1,3 @@
+# mediapipe pulls in opencv-contrib-python itself; do NOT also install opencv-python (two cv2 builds clash).
+mediapipe
+numpy
